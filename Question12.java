@@ -15,7 +15,7 @@ public class Question12 extends JFrame{
 
     		Box b = Box.createVerticalBox(); 
        
-    		f = new JFrame();
+    		f = new JFrame("Question12 Ali Khalaf");
     		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 

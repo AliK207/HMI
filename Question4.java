@@ -3,12 +3,12 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-public class Question3 {
+public class Question4 extends JFrame {
 
         private static void createAndShowGUI() {
 
 
-                JFrame frame = new JFrame("My Frame");
+                JFrame frame = new JFrame("Question4 Ali Khalaf ");
                 JLabel label = new JLabel("Hello World !");
 
                 //cette method permet a l'appuie sur X de fermer la frame et stop prog

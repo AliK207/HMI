@@ -14,7 +14,7 @@ public static void main(String[] args) {
 
 	 Box b = Box.createVerticalBox(); 
        
-     f = new JFrame();
+     f = new JFrame("Question14 Ali Khalaf");
      f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 

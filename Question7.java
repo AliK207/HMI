@@ -7,7 +7,7 @@ public class Question7 {
 
 	private static void createAndShowGUI() {
  
-		JFrame frame = new JFrame("Question7");
+		JFrame frame = new JFrame("Question7 Ali Khalaf");
 
 
 		JLabel label = new JLabel("Center");

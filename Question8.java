@@ -8,7 +8,7 @@ public class Question8 {
     private static void createAndShowGUI() {
 
 
-             JFrame frame = new JFrame("Question 8");
+             JFrame frame = new JFrame("Question 8 Ali Khalaf");
 	    
 	     JButton btn1 = new JButton("Button 1");
              JButton btn2 = new JButton("Button 2");

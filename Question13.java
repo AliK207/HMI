@@ -8,7 +8,7 @@ public class Question13 {
 	public static void main(String[] args) {
 
 
-	    	JFrame f = new JFrame();
+	    	JFrame f = new JFrame("Question 13 Ali Khalaf");
 
 	   	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

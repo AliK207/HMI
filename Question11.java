@@ -20,7 +20,7 @@ public class Question11 extends JFrame{
 
 public static void main(String[] args) {
 	
-	JFrame f= new JFrame("Label Example"); 
+	JFrame f= new JFrame("Question 11 Ali KHALAF"); 
 	f.setDefaultCloseOperation( JFrame.DISPOSE_ON_CLOSE  );	
 	CardLayout crd;    
 	JButton btn1, btn2, btn3;    
@@ -31,7 +31,7 @@ public static void main(String[] args) {
 	 CardLayout cObjl;  
   
 	// constructor of the class  
-	f.setTitle("Card Layout Methods");  
+	f.setTitle("Question 11 Ali Khalaf");  
   
 	// Method to set the visibility of the JFrame  
 	f.setSize(310, 160);  

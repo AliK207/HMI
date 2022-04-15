@@ -19,7 +19,7 @@ public class test {
 
         final String[] theme = {"dark"};
 
-        JFrame win = new JFrame();
+        JFrame win = new JFrame("Text Editor Ali Khalaf");
         win.getContentPane().setLayout(new BorderLayout());
         win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     

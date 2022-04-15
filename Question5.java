@@ -7,7 +7,7 @@ public class Question5 extends JFrame{
 
     private static void createAndShowGUI() {
 
-            JFrame frame = new JFrame("My Frame");
+            JFrame frame = new JFrame("Question5 Ali Khalaf");
 	    JDialog jd = new JDialog();
 	    JLabel label = new JLabel("Hello World !");
 	

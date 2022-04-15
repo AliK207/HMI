@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-public class Question3 {
+public class Question3 extends JFrame {
 
 	private static void createAndShowGUI() {
 

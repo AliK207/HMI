@@ -13,7 +13,7 @@ public class Question1 extends JFrame{
 	    wind.getContentPane().add(label,BorderLayout.CENTER);
 	
 	    wind.setSize(300,300);
-	    wind.setLocation(700,500);
+	//    wind.setLocation(700,500);
             wind.pack();
 	    wind.setVisible(true);
 
